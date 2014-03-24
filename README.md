@@ -1,4 +1,4 @@
 Kippo2MySQL
 ===========
 
-Extract data from Kippo logs and insert them in a MySQL database
+Kippo2MySQL is a simple script that extracts data from Kippo logs and inserts them in a MySQL database.
